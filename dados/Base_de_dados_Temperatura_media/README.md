@@ -1,1 +1,1 @@
-Base de dados Temperatura m�dia 
+Base de dados Temperatura média, utilizada na análise.
