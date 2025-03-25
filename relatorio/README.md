@@ -1,1 +1,1 @@
-Relat¢rios e textos ir∆o aqui 
+Relat√≥rio do projeto.
