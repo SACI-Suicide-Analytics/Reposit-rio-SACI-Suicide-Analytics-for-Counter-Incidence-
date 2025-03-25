@@ -1,1 +1,1 @@
-Base de dados Suic�dio 
+Base de dados Suicídio, utilizada na análise.
