@@ -1,1 +1,1 @@
-Base de dados Desemprego 
+Base de dados da Taxa de Desemprego, utilizada na análise.
