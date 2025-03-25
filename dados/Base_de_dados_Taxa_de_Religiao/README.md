@@ -1,1 +1,1 @@
-Base de dados Taxa de Religi�o 
+Base de dados Taxa de Religião, utilizada na análise. 
