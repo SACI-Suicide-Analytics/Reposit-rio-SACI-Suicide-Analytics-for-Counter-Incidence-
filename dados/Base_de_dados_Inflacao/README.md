@@ -1,1 +1,1 @@
-Base de dados Inflaá∆o 
+Base de dados Infla√ß√£o, utilizada na an√°lise.
