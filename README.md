@@ -1,1 +1,2 @@
-# Reposit-rio-SACI-Suicide-Analytics-for-Counter-Incidence-
+# Repositório-SACI-Suicide-Analytics-for-Counter-Incidence
+Este repositório contém os códigos, análises e resultados do projeto SACI (Suicide Analytics for Counter Incidence), desenvolvido para a Febrace 2025. O projeto analisa a correlação entre variáveis socioeconômicas e o suicídio, permitindo a criação de meios de visualização com o intuito de melhorar a compreensão do suicídio na escala global. 
